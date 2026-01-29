@@ -213,7 +213,7 @@ NIH ChestX-ray14 Dataset
 
 CheXNet (Rajpurkar et al.)
 
-PyTorch & Torchvision
+
 
 
 
