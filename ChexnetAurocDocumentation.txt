@@ -1,0 +1,115 @@
+Validation AUROC per class:
+Atelectasis           : 0.8109
+Cardiomegaly          : 0.8907
+Consolidation         : 0.7943
+Edema                 : 0.8890
+Effusion              : 0.8797
+Emphysema             : 0.9054
+Fibrosis              : 0.7894
+Hernia                : 0.8450
+Infiltration          : 0.7074
+Mass                  : 0.8432
+No Finding            : 0.7717
+Nodule                : 0.7537
+Pleural_Thickening    : 0.7731
+Pneumonia             : 0.7460
+Pneumothorax          : 0.8688
+Mean AUROC: 0.817887544631958
+Val Loss  : 0.1776
+Val AUROC : 0.8179
+Best model saved 
+Checkpoint saved for epoch--> 1
+
+=====================================================================================
+
+Validation AUROC per class:
+Atelectasis           : 0.8207
+Cardiomegaly          : 0.9074
+Consolidation         : 0.8049
+Edema                 : 0.9032
+Effusion              : 0.8849
+Emphysema             : 0.9197
+Fibrosis              : 0.8116
+Hernia                : 0.9037
+Infiltration          : 0.7153
+Mass                  : 0.8608
+No Finding            : 0.7861
+Nodule                : 0.7726
+Pleural_Thickening    : 0.7918
+Pneumonia             : 0.7687
+Pneumothorax          : 0.8772
+Mean AUROC: 0.8352386355400085
+Val Loss  : 0.1726
+Val AUROC : 0.8352
+Best model saved 
+Checkpoint saved for epoch--> 2
+
+======================================================================================
+
+Validation AUROC per class:
+Atelectasis           : 0.8213
+Cardiomegaly          : 0.9093
+Consolidation         : 0.8064
+Edema                 : 0.9002
+Effusion              : 0.8809
+Emphysema             : 0.9213
+Fibrosis              : 0.8160
+Hernia                : 0.8972
+Infiltration          : 0.7193
+Mass                  : 0.8542
+No Finding            : 0.7836
+Nodule                : 0.7632
+Pleural_Thickening    : 0.7938
+Pneumonia             : 0.7713
+Pneumothorax          : 0.8892
+Mean AUROC: 0.8351389765739441
+Val Loss  : 0.1720
+Val AUROC : 0.8351
+Checkpoint saved for epoch--> 3
+
+====================================================================================
+
+
+Validation AUROC per class:
+Atelectasis           : 0.8269
+Cardiomegaly          : 0.9109
+Consolidation         : 0.8086
+Edema                 : 0.9071
+Effusion              : 0.8881
+Emphysema             : 0.9150
+Fibrosis              : 0.8071
+Hernia                : 0.9359
+Infiltration          : 0.7203
+Mass                  : 0.8613
+No Finding            : 0.7856
+Nodule                : 0.7716
+Pleural_Thickening    : 0.8040
+Pneumonia             : 0.7755
+Pneumothorax          : 0.8893
+Mean AUROC: 0.8404818177223206
+Val Loss  : 0.1728
+Val AUROC : 0.8405
+Best model saved 
+Checkpoint saved for epoch--> 4
+
+==================================================================================================
+Validation AUROC per class:
+Atelectasis           : 0.7879
+Cardiomegaly          : 0.8663
+Consolidation         : 0.7874
+Edema                 : 0.8860
+Effusion              : 0.8575
+Emphysema             : 0.8801
+Fibrosis              : 0.7772
+Hernia                : 0.9321
+Infiltration          : 0.6710
+Mass                  : 0.8427
+No Finding            : 0.7322
+Nodule                : 0.7507
+Pleural_Thickening    : 0.7624
+Pneumonia             : 0.7514
+Pneumothorax          : 0.8683
+Mean AUROC: 0.8102074861526489
+Val Loss  : 0.2112
+Val AUROC : 0.8102
+Checkpoint saved for epoch--> 9
